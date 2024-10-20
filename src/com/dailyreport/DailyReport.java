@@ -5,7 +5,8 @@ import java.util.List;
 import java.util.Scanner;
 
 public class DailyReport {
-    private DailyTasks dailyTasks;
+    private DailyTasks
+            dailyTasks;
     private ReadBook readBook;
     private Studies studies;
     private Ideas ideas;
